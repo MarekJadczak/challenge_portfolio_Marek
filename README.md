@@ -43,12 +43,12 @@ Aplikacja służy do śledzenia, raportowania i ewaluacji występów poszczegól
   * Nie da się wejść w szczegóły meczu czy raportu kilkając na pole danego meczu/raportu. Jedyna opcja to edytowanie meczu/raportu. Tylko wtedy możemy zobaczyć szczegóły
   * na stronie głównej mamy kafelki z zbiorczą inoformacją na temat liczny zawodników, meczy, raportów, akcji. Ale kafelki nie są interkatywne. Nie prowadzą do zbiorczych danych z danego obszaru. Nie wiadomo do końca po co się tam znajdują. 
   
-  **Interfejse**
+  **Interfejs**
   
   Aplikacja jest bardzo oszczędna, korzysta z prostego layouty, jest przejrzysta, ale mało atrakcyjna dla użytkownika
   
   **Błędy**
-  Podczas testów znalazłem 10 błędów oraz 5 rozwiązań funkcjonalnych, które budzą moje wątpliwości
+  Podczas testów znalazłem 10 błędów oraz 6 rozwiązań funkcjonalnych, które budzą moje wątpliwości
   
  * Błędy
     * System nie ostrzega przed utratą niezapisanych danych przy zamknieciu utworzonych akcji z meczu
@@ -67,5 +67,6 @@ Aplikacja służy do śledzenia, raportowania i ewaluacji występów poszczegól
     * Brak podlinkowania do zakładek "mecze" i "raporty" z pozycji strony głównej
     * Brak możliwości wejścia w szczegóły meczu/raportu klikając na pole danego meczu. Trzeba wejść przed edycję, 
     * Pola w opisie zawodnika (imię, nazwisko, klub) przyjmują znaki specjalne (np. $%^&*)
+    * Pole Login traktuje spację jako znak
 </p>
 

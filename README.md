@@ -70,3 +70,21 @@ Aplikacja służy do śledzenia, raportowania i ewaluacji występów poszczegól
     * Pole Login traktuje spację jako znak
 </p>
 
+## TASK 2
+
+### Subtask 1 - Pisanie przypadków testowych na podstawie User Story
+  * [Google Drive](https://docs.google.com/spreadsheets/d/19J1OEtKGKX11-fIfb0Emp66YXIwJoCf-C7Y-bSjyd-A/edit#gid=1114735493)
+  
+### Subtask 2 - Pisanie przypadków testowych na podstawie “własnych doświadczeń.
+  * [Google Drive](https://docs.google.com/document/d/1emiIiiXw98dk6WoVdpegFpvS9Kvikx6InbxuMTbQ3PE/edit)
+  
+### Subtask 3 - Po co piszemy test case’y?
+
+  Test case'y piszemu żeby:
+    * uporządkować pracę
+    * dokładnie opisać korki testowania, żeby inne osoby mogły z łatwością otworzyć test case - np. inny tester, lub developer, który będzie naprawia buga
+    * ułatwić późniejsze testy regresji 
+    * wkurzyć testera
+    
+
+    

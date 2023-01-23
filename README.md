@@ -77,6 +77,7 @@ Aplikacja służy do śledzenia, raportowania i ewaluacji występów poszczegól
     * Pole Login traktuje spację jako znak
 </p>
 <div id='TASK2'/>
+
 ## TASK 2 
 
 ### Subtask 1 - Pisanie przypadków testowych na podstawie User Story

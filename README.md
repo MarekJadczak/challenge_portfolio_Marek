@@ -5,6 +5,8 @@
 
 2. [TASK 2](#TASK2)
 
+3. [TASK 3](#TASK3)
+
 <div id='TASK1'/>
 
 ## TASK 1 
@@ -93,6 +95,17 @@ Aplikacja służy do śledzenia, raportowania i ewaluacji występów poszczegól
   * dokładnie opisać korki testowania, żeby inne osoby mogły z łatwością otworzyć test case - np. inny tester, lub developer, który będzie naprawia buga
   * ułatwić późniejsze testy regresji 
   * wkurzyć testera
-    
+ 
+ <div id='TASK3'/>
 
+## TASK 3
+
+### Subtask 1 - Formularz zgłoszenia błędu
+  * [Google Drive](https://docs.google.com/document/d/1QcI35jge0DBu9aUvN8ak1XFMUO8qiH1WKgZn78YZGEA/edit)
+  
+### Subtask 2 - Testowanie według planów testów i raportowanie błędów
+  * [Google Drive](https://docs.google.com/document/d/1PAA5ezU1bROlcqeaI_CjZ5dsitNvBGRqxS6JM-_9jlw/edit)
+  
+### Subtask 3 - Raport z wykonanych testów
+  * [Google Drive](https://docs.google.com/document/d/1YVdhFhwKZkL85KVMVO6GI515c8HXGxTQF45DGcmfUFU/edit)
     

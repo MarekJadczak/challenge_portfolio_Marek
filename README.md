@@ -7,6 +7,8 @@
 
 3. [TASK 3](#TASK3)
 
+4. [TASK 4](#TASK4)
+
 <div id='TASK1'/>
 
 ## TASK 1 
@@ -108,4 +110,49 @@ Aplikacja służy do śledzenia, raportowania i ewaluacji występów poszczegól
   
 ### Subtask 3 - Raport z wykonanych testów
   * [Google Drive](https://docs.google.com/document/d/1YVdhFhwKZkL85KVMVO6GI515c8HXGxTQF45DGcmfUFU/edit)
+
+<div id='TASK4'/>
+
+## TASK 4
+
+### Subtask_1_&_2 - formularz zgłoszenia błędu aplikacja mobilna & zgłoszone błędy
+* [Google Drive](https://docs.google.com/document/d/1UUSilt8CK82MVb0oRAyIfbCWvGBz5OQMIR2Opvbc2Fo/edit)
+
+### Subtask 3 - Do czego służy ta aplikacja?
+
+1. **Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?** 
+
+Aplikacja ma na celu dostarczenie użytkownikowi gotowych praktyk, programów medytacyjnych, relaksacyjnych. Promuje i ułatwia dostęp do praktyk mindfulness. Użytkownik dzięki tej aplikacji może wybrać konkretny obszar na jakim chce się skupić (np. redukcja stresu, budowanie uważności, dobre relacje) i aplikacja zaproponuje mu katalog praktyk dopasowanych do potrzeby uzytkownika
+
+
+2. **Kto ma być użytkownikiem końcowym aplikacji?**
+
+Osoby zainteresowane medytacją, relaksacją, praktykami mindfulness
+
+
+3. **Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)**
+
+Aplikacja jest intuicyjna, łatwo się w niej poruszać. Użytkownik szybko odkrywa funkcje aplikacji. 
+Jednak nie do końca zrozumiałem są dla mnie poszczególne obszary na stronie głównej (dla początkujących, Twój cel, Dla Ciebie, Wyzwanie). Nie jest jasne czym się od siebie różnią. 
+
+
+4. **Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )**
+
+Dodałbym funkcję filtrowania praktyk po kryteriach:
+* cena
+* długość trwania praktyki
+* autor
+* zrealizowane/niezrealizowane praktyki
+
+Aplikacja ma dużo różnych kategorii - w zakładce Odkrywaj mamy 16 kategorii - prócz tego są w tej samej zakładce inne sekcje - złap oddech, wewnętrzny spokój, ostatnio dodane. Ciężko się w tym odnaleźć. 
+Problem jest też zresetowanie postępów praktyk po zmianie języka oraz mniejsza ilość materiału w języku angielskim
+
+
+5. **Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
+
+W aplikacji natywnej nie ma devtoolsów, które jednak ułatwiają testowanie i dają inne możliwości
+Aplikacje natywne dobrze jest testować na wielu różnych urządzeniach z tej samej grupy (różne telefony, różne tablety). Dodatkowo każde z tych urządzeń może pracować w trybie horyzontalnym i wertykalnym. 
+Łatwiej jest mi testować aplikacje webowe, mam wrażenie, że łatwiej jest zrobić to w uporządkowany sposób. Przy aplikacji natywnej i testach eksploracyjnych często wracałem w te same miejsca, poruszałem się po aplikacji bardziej chaotycznie.
+
+
     

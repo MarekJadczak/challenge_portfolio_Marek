@@ -152,7 +152,7 @@ Problem jest też zresetowanie postępów praktyk po zmianie języka oraz mniejs
 
 W aplikacji natywnej nie ma devtoolsów, które jednak ułatwiają testowanie i dają inne możliwości
 Aplikacje natywne dobrze jest testować na wielu różnych urządzeniach z tej samej grupy (różne telefony, różne tablety). Dodatkowo każde z tych urządzeń może pracować w trybie horyzontalnym i wertykalnym. 
-Łatwiej jest mi testować aplikacje webowe, mam wrażenie, że łatwiej jest zrobić to w uporządkowany sposób. Przy aplikacji natywnej i testach eksploracyjnych często wracałem w te same miejsca, poruszałem się po aplikacji bardziej chaotycznie.
+Łatwiej jest mi testować aplikacje webowe, mam wrażenie, że łatwiej jest zrobić to w uporządkowany sposób.
 
 
     

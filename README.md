@@ -9,6 +9,8 @@
 
 4. [TASK 4](#TASK4)
 
+5. [TASK_5](#TASK5)
+
 <div id='TASK1'/>
 
 ## TASK 1 
@@ -153,6 +155,50 @@ Problem jest też zresetowanie postępów praktyk po zmianie języka oraz mniejs
 W aplikacji natywnej nie ma devtoolsów, które jednak ułatwiają testowanie i dają inne możliwości
 Aplikacje natywne dobrze jest testować na wielu różnych urządzeniach z tej samej grupy (różne telefony, różne tablety). Dodatkowo każde z tych urządzeń może pracować w trybie horyzontalnym i wertykalnym. 
 Łatwiej jest mi testować aplikacje webowe, mam wrażenie, że łatwiej jest zrobić to w uporządkowany sposób.
+
+<div id='TASK5'/>
+
+## TASK 5
+
+### Subtask 3
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
+<a href="https://ibb.co/8zn3f69"><img src="https://i.ibb.co/8zn3f69/2023-02-13-19h10-41.png" alt="2023-02-13-19h10-41" border="0" /></a>
+
+2. Wyświetl film, który powstał w 2019 roku.
+
+<a href="https://ibb.co/BfbhXrj"><img src="https://i.ibb.co/BfbhXrj/2023-02-13-19h15-44.png" alt="2023-02-13-19h15-44" border="0" /></a>
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+<a href="https://ibb.co/CpLvd9F"><img src="https://i.ibb.co/CpLvd9F/2023-02-13-19h15-04.png" alt="2023-02-13-19h15-04" border="0" /></a>
+
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+
+<a href="https://ibb.co/7R9pFk2"><img src="https://i.ibb.co/7R9pFk2/2023-02-13-19h17-02.png" alt="2023-02-13-19h17-02" border="0" /></a>
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+<a href="https://ibb.co/nBcdvnq"><img src="https://i.ibb.co/nBcdvnq/2023-02-13-19h28-57.png" alt="2023-02-13-19h28-57" border="0" /></a>
+
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+<a href="https://ibb.co/S7M4T1k"><img src="https://i.ibb.co/S7M4T1k/2023-02-13-19h30-19.png" alt="2023-02-13-19h30-19" border="0" /></a>
+
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+<a href="https://ibb.co/k6vWjKv"><img src="https://i.ibb.co/k6vWjKv/2023-02-13-19h32-18.png" alt="2023-02-13-19h32-18" border="0" /></a>
+
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+<a href="https://ibb.co/TB7DTDK"><img src="https://i.ibb.co/TB7DTDK/2023-02-13-19h33-15.png" alt="2023-02-13-19h33-15" border="0" /></a>
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+<a href="https://ibb.co/2W43KX0"><img src="https://i.ibb.co/2W43KX0/2023-02-13-19h34-57.png" alt="2023-02-13-19h34-57" border="0" /></a>
+
 
 
     
